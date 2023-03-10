@@ -5016,7 +5016,7 @@ html {
 
 body {
   /* Margin bottom by footer height */
-  margin-bottom: 350px; }
+  margin-bottom: 150px; }
 
 footer {
   position: absolute;
@@ -5024,7 +5024,7 @@ footer {
   width: 100%;
   background-color: #900011;
   color: #FFFFFF;
-  height: 350px;
+  height: 150px;
   text-align: center; }
   footer a {
     color: #FFFFFF; }
