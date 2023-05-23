@@ -134,7 +134,13 @@ footer {
 
 .list-group-item .glyphicon{
     color: #027f0f;
-
 }
+
+.obf { unicode-bidi:bidi-override; direction:rtl }
+
+.obf--phone:before { content:"781933 " }
+
+.obf--phone:after { content:" 447+ :enohP" }
+
 
 @import "swipe";
