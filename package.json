@@ -1,0 +1,26 @@
+{
+  "name": "warnesbuilders",
+  "version": "1.0.0",
+  "description": "warnesbuilders.co.uk website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisjwarnes/warnesbuilders.git"
+  },
+  "author": "Chris Warnes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chrisjwarnes/warnesbuilders/issues"
+  },
+  "homepage": "https://github.com/chrisjwarnes/warnesbuilders#readme",
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^8.0.0",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-dart-sass": "^1.1.0",
+    "gulp-rename": "^2.0.0"
+  }
+}

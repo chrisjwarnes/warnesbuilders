@@ -164,11 +164,6 @@
 .page-swipe header nav #position li.on {
     box-shadow: inset 0 1px 3px -1px #900011, 0 1px 2px rgba(0, 0, 0, .5);
     background-color: #900011;
-    background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, lighten(#900011, 10%)), color-stop(100%, #900011));
-    background-image: -webkit-linear-gradient(top, lighten(#900011, 10%), #900011);
-    background-image: -moz-linear-gradient(top, lighten(#900011, 10%), #900011);
-    background-image: -ms-linear-gradient(top, lighten(#900011, 10%), #900011);
-    background-image: -o-linear-gradient(top, lighten(#900011, 10%), #900011);
     background-image: linear-gradient(top, lighten(#900011, 10%), #900011)
 }
 
@@ -285,11 +280,6 @@
     border: 0;
     box-shadow: 0 1px 1px rgba(0, 0, 0, .65), inset 0 1px 2px -1px rgba(255, 255, 255, .2);
     background-color: #252829;
-    background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #252829), color-stop(100%, #1e2021));
-    background-image: -webkit-linear-gradient(top, #252829, #1e2021);
-    background-image: -moz-linear-gradient(top, #252829, #1e2021);
-    background-image: -ms-linear-gradient(top, #252829, #1e2021);
-    background-image: -o-linear-gradient(top, #252829, #1e2021);
     background-image: linear-gradient(top, #252829, #1e2021);
     text-shadow: 0 -1px 0 rgba(0, 0, 0, .35);
     margin-bottom: 25px
