@@ -6190,6 +6190,19 @@ footer .text-muted {
   color: #027f0f;
 }
 
+.obf {
+  unicode-bidi: bidi-override;
+  direction: rtl;
+}
+
+.obf--phone:before {
+  content: "781933 ";
+}
+
+.obf--phone:after {
+  content: "70 :enohp";
+}
+
 .dark {
   background-color: #191919;
 }
